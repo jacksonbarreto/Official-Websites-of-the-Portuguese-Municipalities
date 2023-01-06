@@ -1,0 +1,309 @@
+district,county,url
+Santarém,Abrantes,www.cm-abrantes.pt
+Aveiro,Águeda,www.cm-agueda.pt
+Guarda,Aguiar da Beira,www.cm-aguiardabeira.pt
+Évora,Alandroal,www.cm-alandroal.pt
+Aveiro,Albergaria-A-Velha,www.cm-albergaria.pt
+Faro,Albufeira,www.cm-albufeira.pt
+Setúbal,Alcácer do Sal,www.cm-alcacerdosal.pt
+Santarém,Alcanena,www.cm-alcanena.pt
+Leiria,Alcobaça,www.cm-alcobaca.pt
+Setúbal,Alcochete,www.cm-alcochete.pt
+Faro,Alcoutim,www.cm-alcoutim.pt
+Lisboa,Alenquer,www.cm-alenquer.pt
+Bragança,Alfândega da Fé,www.cm-alfandegadafe.pt
+Vila Real,Alijó,www.cm-alijo.pt
+Faro,Aljezur,www.cm-aljezur.pt
+Beja,Aljustrel,www.mun-aljustrel.pt
+Setúbal,Almada,www.m-almada.pt
+Guarda,Almeida,www.cm-almeida.pt
+Santarém,Almeirim,www.cm-almeirim.pt
+Beja,Almodôvar,www.cm-almodovar.pt
+Santarém,Alpiarça,www.cm-alpiarca.pt
+Portalegre,Alter do Chão,www.cm-alter-chao.pt
+Leiria,Alvaiázere,www.cm-alvaiazere.pt
+Beja,Alvito,www.cm-alvito.pt
+Lisboa,Amadora,www.cm-amadora.pt
+Porto,Amarante,www.cm-amarante.pt
+Braga,Amares,www.cm-amares.pt
+Aveiro,Anadia,www.cm-anadia.pt
+Açores,Angra do Heroísmo,www.angradoheroismo.pt
+Leiria,Ansião,www.cm-ansiao.pt
+Viana do Castelo,Arcos de Valdevez,www.cmav.pt
+Coimbra,Arganil,www.cm-arganil.pt
+Viseu,Armamar,www.cm-armamar.pt
+Aveiro,Arouca,www.cm-arouca.pt
+Évora,Arraiolos,www.cm-arraiolos.pt
+Portalegre,Arronches,www.cm-arronches.pt
+Lisboa,Arruda dos Vinhos,www.cm-arruda.pt
+Aveiro,Aveiro,www.cm-aveiro.pt
+Portalegre,Avis,www.cm-avis.pt
+Lisboa,Azambuja,www.cm-azambuja.pt
+Porto,Baião,www.cm-baiao.pt
+Braga,Barcelos,www.cm-barcelos.pt
+Beja,Barrancos,www.cm-barrancos.pt
+Setúbal,Barreiro,www.cm-barreiro.pt
+Leiria,Batalha,www.cm-batalha.pt
+Beja,Beja,www.cm-beja.pt
+Castelo Branco,Belmonte,www.cm-belmonte.pt
+Santarém,Benavente,www.cm-benavente.pt
+Leiria,Bombarral,www.cm-bombarral.pt
+Évora,Borba,www.cm-borba.pt
+Vila Real,Boticas,www.cm-boticas.pt
+Braga,Braga,www.cm-braga.pt
+Bragança,Bragança,www.cm-braganca.pt
+Braga,Cabeceiras de Basto,www.cabeceirasdebasto.pt
+Lisboa,Cadaval,www.cm-cadaval.pt
+Leiria,Caldas da Rainha,www.cm-caldas-rainha.pt
+Madeira,Calheta,www.cm-calheta-madeira.com
+Açores,Calheta (São Jorge),www.cm-calheta.pt
+Madeira,Câmara de Lobos,www.cm-camaradelobos.pt
+Viana do Castelo,Caminha,www.cm-caminha.pt
+Portalegre,Campo Maior,www.cm-campo-maior.pt
+Coimbra,Cantanhede,www.cm-cantanhede.pt
+Bragança,Carrazeda de Ansiães,www.cm-carrazedadeansiaes.pt
+Viseu,Carregal do Sal,www.cm-carregal.pt
+Santarém,Cartaxo,www.cm-cartaxo.pt
+Lisboa,Cascais,www.cm-cascais.pt
+Leiria,Castanheira de Pêra,www.cm-castanheiradepera.pt
+Castelo Branco,Castelo Branco,www.cm-castelobranco.pt
+Aveiro,Castelo de Paiva,www.cm-castelo-paiva.pt
+Portalegre,Castelo de Vide,www.cm-castelo-vide.pt
+Viseu,Castro Daire,www.cm-castrodaire.pt
+Faro,Castro Marim,www.cm-castromarim.pt
+Beja,Castro Verde,www.cm-castroverde.pt
+Guarda,Celorico da Beira,www.cm-celoricodabeira.pt
+Braga,Celorico de Basto,www.mun-celoricodebasto.pt
+Santarém,Chamusca,www.cm-chamusca.pt
+Vila Real,Chaves,www.chaves.pt
+Viseu,Cinfães,www.cm-cinfaes.pt
+Coimbra,Coimbra,www.cm-coimbra.pt
+Coimbra,Condeixa-A-Nova,www.cm-condeixa.pt
+Santarém,Constância,www.cm-constancia.pt
+Santarém,Coruche,www.cm-coruche.pt
+Açores,Corvo,www.cm-corvo.pt
+Castelo Branco,Covilhã,www.cm-covilha.pt
+Portalegre,Crato,www.cm-crato.pt
+Beja,Cuba,www.cm-cuba.pt
+Portalegre,Elvas,www.cm-elvas.pt
+Santarém,Entroncamento,www.cm-entroncamento.pt
+Aveiro,Espinho,www.cm-espinho.pt
+Braga,Esposende,www.cm-esposende.pt
+Aveiro,Estarreja,www.cm-estarreja.pt
+Évora,Estremoz,www.cm-estremoz.pt
+Évora,Evora,www.cm-evora.pt
+Braga,Fafe,www.cm-fafe.pt
+Faro,Faro,www.cm-faro.pt
+Porto,Felgueiras,www.cm-felgueiras.pt
+Beja,Ferreira do Alentejo,www.ferreiradoalentejo.pt
+Santarém,Ferreira do Zêzere,www.cm-ferreiradozezere.pt
+Coimbra,Figueira da Foz,www.cm-figfoz.pt
+Guarda,Figueira de Castelo Rodrigo,www.cm-fcr.pt
+Leiria,Figueiró dos Vinhos,www.cm-figueirodosvinhos.pt
+Guarda,Fornos de Algodres,www.cm-fornosdealgodres.pt
+Bragança,Freixo de Espada À Cinta,www.cm-freixoespadacinta.pt
+Portalegre,Fronteira,www.cm-fronteira.pt
+Madeira,Funchal,www.cm-funchal.pt
+Castelo Branco,Fundão,www.cm-fundao.pt
+Portalegre,Gavião,www.cm-gaviao.pt
+Coimbra,Góis,www.cm-gois.pt
+Santarém,Golegã,www.cm-golega.pt
+Porto,Gondomar,www.cm-gondomar.pt
+Guarda,Gouveia,www.cm-gouveia.pt
+Setúbal,Grândola,www.cm-grandola.pt
+Guarda,Guarda,www.mun-guarda.pt
+Braga,Guimarães,www.cm-guimaraes.pt
+Açores,Horta,www.cmhorta.pt
+Castelo Branco,Idanha-A-Nova,www.cm-idanhanova.pt
+Aveiro,Ílhavo,www.cm-ilhavo.pt
+Faro,Lagoa,www.cm-lagoa.pt
+Açores,Lagoa (Açores),www.lagoa-acores.pt
+Faro,Lagos,www.cm-lagos.pt
+Açores,Lajes das Flores,www.cmlajesdasflores.pt
+Açores,Lajes do Pico,www.cm-lajesdopico.pt
+Viseu,Lamego,www.cm-lamego.pt
+Leiria,Leiria,www.cm-leiria.pt
+Lisboa,Lisboa,www.cm-lisboa.pt
+Faro,Loulé,www.cm-loule.pt
+Lisboa,Loures,www.cm-loures.pt
+Lisboa,Lourinhã,www.cm-lourinha.pt
+Coimbra,Lousã,www.cm-lousa.pt
+Porto,Lousada,www.cm-lousada.pt
+Santarém,Mação,www.cm-macao.pt
+Bragança,Macedo de Cavaleiros,www.cm-macedodecavaleiros.pt
+Madeira,Machico,www.cm-machico.pt
+Açores,Madalena do Pico,www.cm-madalena.pt
+Lisboa,Mafra,www.cm-mafra.pt
+Porto,Maia,www.cm-maia.pt
+Viseu,Mangualde,www.cmmangualde.pt
+Guarda,Manteigas,www.cm-manteigas.pt
+Porto,Marco de Canaveses,www.cm-marco-canaveses.pt
+Leiria,Marinha Grande,www.cm-mgrande.pt
+Portalegre,Marvão,www.cm-marvao.pt
+Porto,Matosinhos,www.cm-matosinhos.pt
+Aveiro,Mealhada,www.cm-mealhada.pt
+Guarda,Mêda,www.cm-meda.pt
+Viana do Castelo,Melgaço,www.cm-melgaco.pt
+Beja,Mértola,www.cm-mertola.pt
+Vila Real,Mesão Frio,www.cm-mesaofrio.pt
+Coimbra,Mira,www.cm-mira.pt
+Coimbra,Miranda do Corvo,www.cm-mirandadocorvo.pt
+Bragança,Miranda do Douro,www.cm-mdouro.pt
+Bragança,Mirandela,www.cm-mirandela.pt
+Bragança,Mogadouro,www.mogadouro.pt
+Viseu,Moimenta da Beira,www.cm-moimenta.pt
+Setúbal,Moita,www.cm-moita.pt
+Viana do Castelo,Monção,www.cm-moncao.pt
+Faro,Monchique,www.cm-monchique.pt
+Vila Real,Mondim de Basto,municipio.mondimdebasto.pt
+Portalegre,Monforte,www.cm-monforte.pt
+Vila Real,Montalegre,www.cm-montalegre.pt
+Évora,Montemor-O-Novo,www.cm-montemornovo.pt
+Coimbra,Montemor-O-Velho,www.cm-montemorvelho.pt
+Setúbal,Montijo,www.mun-montijo.pt
+Évora,Mora,www.cm-mora.pt
+Viseu,Mortágua,www.cm-mortagua.pt
+Beja,Moura,www.cm-moura.pt
+Évora,Mourão,www.cm-mourao.pt
+Vila Real,Murça,www.cm-murca.pt
+Aveiro,Murtosa,www.cm-murtosa.pt
+Leiria,Nazaré,www.cm-nazare.pt
+Viseu,Nelas,www.cm-nelas.pt
+Portalegre,Nisa,www.cm-nisa.pt
+Açores,Nordeste (S. Miguel Açores),www.cmnordeste.pt
+Leiria,Óbidos,www.cm-obidos.pt
+Beja,Odemira,www.cm-odemira.pt
+Lisboa,Odivelas,www.cm-odivelas.pt
+Lisboa,Oeiras,www.cm-oeiras.pt
+Castelo Branco,Oleiros,www.cm-oleiros.pt
+Faro,Olhão,www.cm-olhao.pt
+Aveiro,Oliveira de Azeméis,www.cm-oaz.pt
+Viseu,Oliveira de Frades,www.cm-ofrades.com
+Aveiro,Oliveira do Bairro,www.cm-olb.pt
+Coimbra,Oliveira do Hospital,www.cm-oliveiradohospital.pt
+Santarém,Ourém,www.cm-ourem.pt
+Beja,Ourique,www.cm-ourique.pt
+Aveiro,Ovar,www.cm-ovar.pt
+Porto,Paços de Ferreira,www.cm-pacosdeferreira.pt
+Setúbal,Palmela,www.cm-palmela.pt
+Coimbra,Pampilhosa da Serra,www.cm-pampilhosadaserra.pt
+Porto,Paredes,www.cm-paredes.pt
+Viana do Castelo,Paredes de Coura,www.paredesdecoura.pt
+Leiria,Pedrógão Grande,www.cm-pedrogaogrande.pt
+Coimbra,Penacova,www.cm-penacova.pt
+Porto,Penafiel,www.cm-penafiel.pt
+Viseu,Penalva do Castelo,www.cm-penalvadocastelo.pt
+Castelo Branco,Penamacor,www.cm-penamacor.pt
+Viseu,Penedono,www.cm-penedono.pt
+Coimbra,Penela,www.cm-penela.pt
+Leiria,Peniche,www.cm-peniche.pt
+Vila Real,Peso da Régua,www.cm-pesoregua.pt
+Guarda,Pinhel,www.cm-pinhel.pt
+Leiria,Pombal,www.cm-pombal.pt
+Açores,Ponta Delgada,www.cm-pontadelgada.pt
+Madeira,Ponta do Sol,www.cm-pontadosol.pt
+Viana do Castelo,Ponte da Barca,www.cmpb.pt
+Viana do Castelo,Ponte de Lima,www.cm-pontedelima.pt
+Portalegre,Ponte de Sor,www.cm-pontedesor.pt
+Portalegre,Portalegre,www.cm-portalegre.pt
+Évora,Portel,www.cm-portel.pt
+Faro,Portimão,www.cm-portimao.pt
+Porto,Porto,www.cm-porto.pt
+Leiria,Porto de Mós,www.municipio-portodemos.pt
+Madeira,Porto Moniz,www.portomoniz.pt
+Madeira,Porto Santo,www.cm-portosanto.pt
+Braga,Póvoa de Lanhoso,www.mun-planhoso.pt
+Porto,Póvoa de Varzim,www.cm-pvarzim.pt
+Açores,Povoação (S. Miguel Açores),www.cm-povoacao.pt
+Castelo Branco,Proença-A-Nova,www.cm-proencanova.pt
+Évora,Redondo,www.cm-redondo.pt
+Évora,Reguengos de Monsaraz,www.cm-reguengos-monsaraz.pt
+Viseu,Resende,www.cm-resende.pt
+Madeira,Ribeira Brava (Madeira),www.cm-ribeirabrava.pt
+Vila Real,Ribeira de Pena,www.cm-rpena.pt
+Açores,Ribeira Grande,www.cm-ribeiragrande.pt
+Santarém,Rio Maior,www.cm-riomaior.pt
+Viseu,S. João da Pesqueira,www.sjpesqueira.pt
+Vila Real,Sabrosa,www.sabrosa.pt
+Guarda,Sabugal,www.cm-sabugal.pt
+Santarém,Salvaterra de Magos,www.cm-salvaterrademagos.pt
+Viseu,Santa Comba Dão,www.cm-santacombadao.pt
+Madeira,Santa Cruz,www.cm-santacruz.pt
+Açores,Santa Cruz da Graciosa,www.cm-graciosa.pt
+Açores,Santa Cruz das Flores,www.cmscflores.pt
+Aveiro,Santa Maria da Feira,www.cm-feira.pt
+Vila Real,Santa Marta de Penaguião,www.cm-smpenaguiao.pt
+Madeira,Santana,www.cm-santana.com
+Santarém,Santarém,www.cm-santarem.pt
+Setúbal,Santiago do Cacém,www.cm-santiagocacem.pt
+Porto,Santo Tirso,www.cm-stirso.pt
+Faro,São Brás de Alportel,www.cm-sbras.pt
+Aveiro,São João da Madeira,www.cm-sjm.pt
+Viseu,São Pedro do Sul,www.cm-spsul.pt
+Açores,São Roque do Pico,www.cm-saoroquedopico.pt
+Madeira,São Vicente,www.cm-saovicente.pt
+Santarém,Sardoal,www.cm-sardoal.pt
+Viseu,Sátão,www.cm-satao.pt
+Guarda,Seia,www.cm-seia.pt
+Setúbal,Seixal,www.cm-seixal.pt
+Viseu,Sernancelhe,www.cm-sernancelhe.pt
+Beja,Serpa,www.cm-serpa.pt
+Castelo Branco,Sertã,www.cm-serta.pt
+Setúbal,Sesimbra,www.cm-sesimbra.pt
+Setúbal,Setúbal,www.mun-setubal.pt
+Aveiro,Sever do Vouga,www.cm-sever.pt
+Faro,Silves,www.cm-silves.pt
+Setúbal,Sines,www.cm-sines.pt
+Lisboa,Sintra,www.cm-sintra.pt
+Lisboa,Sobral de Monte Agraço,www.cm-sobral.pt
+Coimbra,Soure,www.cm-soure.pt
+Portalegre,Sousel,www.cm-sousel.pt
+Coimbra,Tábua,www.cm-tabua.pt
+Viseu,Tabuaço,www.cm-tabuaco.pt
+Viseu,Tarouca,www.cm-tarouca.pt
+Faro,Tavira,www.cm-tavira.pt
+Braga,Terras de Bouro,www.cm-terrasdebouro.pt
+Santarém,Tomar,www.cm-tomar.pt
+Viseu,Tondela,www.cm-tondela.pt
+Bragança,Torre de Moncorvo,www.torredemoncorvo.pt
+Santarém,Torres Novas,www.cm-torresnovas.pt
+Lisboa,Torres Vedras,www.cm-tvedras.pt
+Guarda,Trancoso,www.cm-trancoso.pt
+Porto,Trofa,www.mun-trofa.pt
+Aveiro,Vagos,www.cm-vagos.pt
+Aveiro,Vale de Cambra,www.cm-valedecambra.pt
+Viana do Castelo,Valença,www.cm-valenca.pt
+Porto,Valongo,www.cm-valongo.pt
+Vila Real,Valpaços,www.valpacos.pt
+Açores,"Velas, São Jorge, Açores",www.cmvelas.pt
+Évora,Vendas Novas,www.cm-vendasnovas.pt
+Évora,Viana do Alentejo,www.cm-vianadoalentejo.pt
+Viana do Castelo,Viana do Castelo,www.cm-viana-castelo.pt
+Beja,Vidigueira,www.cm-vidigueira.pt
+Braga,Vieira do Minho,www.cm-vminho.pt
+Castelo Branco,Vila de Rei,www.cm-viladerei.pt
+Faro,Vila do Bispo,www.cm-viladobispo.pt
+Porto,Vila do Conde,www.cm-viladoconde.pt
+Açores,Vila do Porto,www.cm-viladoporto.pt
+Bragança,Vila Flor,www.cm-vilaflor.pt
+Lisboa,Vila Franca de Xira,www.cm-vfxira.pt
+Açores,Vila Franca do Campo,www.cmvfc.pt
+Santarém,Vila Nova da Barquinha,www.cm-vnbarquinha.pt
+Viana do Castelo,Vila Nova de Cerveira,www.cm-vncerveira.pt
+Braga,Vila Nova de Famalicão,www.vilanovadefamalicao.org
+Guarda,Vila Nova de Foz Côa,www.cm-fozcoa.pt
+Porto,Vila Nova de Gaia,www.cm-gaia.pt
+Viseu,Vila Nova de Paiva,www.cm-vnpaiva.pt
+Coimbra,Vila Nova de Poiares,www.cm-vilanovadepoiares.pt
+Vila Real,Vila Pouca de Aguiar,www.cm-vpaguiar.pt
+Açores,Vila Praia da Vitória,www.cmpv.pt
+Vila Real,Vila Real,www.cm-vilareal.pt
+Faro,Vila Real de Santo António,www.cm-vrsa.pt
+Castelo Branco,Vila Velha de Ródão,www.cm-vvrodao.pt
+Braga,Vila Verde,www.cm-vilaverde.pt
+Évora,Vila Viçosa,www.cm-vilavicosa.pt
+Bragança,Vimioso,www.cm-vimioso.pt
+Bragança,Vinhais,www.cm-vinhais.pt
+Viseu,Viseu,www.cm-viseu.pt
+Braga,Vizela,www.cm-vizela.pt
+Viseu,Vouzela,www.cm-vouzela.pt
