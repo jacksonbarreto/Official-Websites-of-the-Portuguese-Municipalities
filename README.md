@@ -8,8 +8,8 @@ This list was used in a study on the cybersecurity of Portuguese city council we
 The data includes the following fields for each city council:
 
 - District
-- Municipality
-- Website
+- County
+- Url
 
 ## Usage
 
