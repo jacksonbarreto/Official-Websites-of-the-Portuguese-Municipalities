@@ -15,7 +15,9 @@ The data includes the following fields for each city council:
 
 This data is available under the Creative Commons Zero (CC0) license and can be used for any purpose, including research on website security for Portuguese city councils or any other purpose where information on these institutions is needed. By sharing this data and adhering to open science principles, we aim to promote the sharing of knowledge and the advancement of research in this field.
 
-If you use this data in your own research, we ask that you please cite the original source and include a link to this repository. To properly attribute this data, please use the following DOI: .
+If you use this data in your own research, we ask that you please cite the original source and include a link to this repository. To properly attribute this data, please use the following DOI: 10.5281/zenodo.7575903.
+
+[![DOI](https://zenodo.org/badge/585903112.svg)](https://zenodo.org/badge/latestdoi/585903112)
 
 ## Contribution
 If you have any updates or corrections to the data, please feel free to open a pull request or contact us directly. Let's work together to keep this data accurate and up-to-date.
