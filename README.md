@@ -2,7 +2,7 @@
 
 This repository contains a list of all 308 Portuguese municipalities, with their respective district and website. The information presented here was based on the update of January 19, 2023, and comes from the website of the General Directorate of Local Authorities (DGAL), which is the central service of the direct administration of the State integrated into the Ministry of Territorial Cohesion of Portugal [1]. Data collection took place on January 26, 2023. We also carried out a manual review of all the website addresses on the list, where we identified and corrected some incorrect email addresses through a Google search of the corresponding municipality.
 
-This list was used in a study on the cybersecurity of Portuguese city council websites. In the interest of promoting open science [2], the list is being made publicly available.
+This list was used in a study on the cybersecurity of Portuguese city council websites [2]. In the interest of promoting open science [3], the list is being made publicly available.
 
 ## Data
 The data includes the following fields for each city council:
@@ -27,4 +27,5 @@ We would like to acknowledge the support of the Norte Portugal Regional Operatio
 ## References
 
 1. Direçao-Geral das Autarquias Locais, “Portal Autárquico - Lista de Municípios,” nov 2021. [Online]. Available: [http://www.portalautarquico.dgal.gov.pt](http://www.portalautarquico.dgal.gov.pt/pt-PT/subsetor-da-administracao-local/entidades-autarquicas/municipios/)
-2. S. Bezjak, A. Clyburne-Sherin, P. Conzett, P. Fernandes, E. Görögh, K. Helbig, B. Kramer, I. Labastida, K. Niemeyer, F. Psomopoulos, T. Ross-Hellauer, R. Schneider, J. Tennant, E. Verbakel, H. Brinken, and L. Heller, Open Science Training Handbook. Zenodo, Apr. 2018. [Online]. Available: [https://doi.org/10.5281/zenodo.1212496](https://doi.org/10.5281/zenodo.1212496)
+2. Pending.
+3. S. Bezjak, A. Clyburne-Sherin, P. Conzett, P. Fernandes, E. Görögh, K. Helbig, B. Kramer, I. Labastida, K. Niemeyer, F. Psomopoulos, T. Ross-Hellauer, R. Schneider, J. Tennant, E. Verbakel, H. Brinken, and L. Heller, Open Science Training Handbook. Zenodo, Apr. 2018. [Online]. Available: [https://doi.org/10.5281/zenodo.1212496](https://doi.org/10.5281/zenodo.1212496)
