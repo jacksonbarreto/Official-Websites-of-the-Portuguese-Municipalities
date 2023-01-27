@@ -1,6 +1,6 @@
-# Portuguese City Council Websites
+# Official Websites of the Portuguese Municipalities
 
-This repository contains a list of 308 Portuguese city council websites, along with their corresponding district, municipality, and website address. The data was collected from the website of the Direção-Geral das Autarquias Locais (DGAL), a central service of the direct state administration integrated into the Ministry of Territorial Cohesion from Portugal, on December 14, 2022, and includes the most recent update from November 3, 2021 [1]. We also performed a manual review of all websites, where we identified and corrected some incorrect web addresses via a Google search for the corresponding city council.
+This repository contains a list of all 308 Portuguese municipalities, with their respective district and website. The information presented here was based on the update of January 19, 2023, and comes from the website of the General Directorate of Local Authorities (DGAL), which is the central service of the direct administration of the State integrated into the Ministry of Territorial Cohesion of Portugal [1]. Data collection took place on January 26, 2023. We also carried out a manual review of all the website addresses on the list, where we identified and corrected some incorrect email addresses through a Google search of the corresponding municipality.
 
 This list was used in a study on the cybersecurity of Portuguese city council websites. In the interest of promoting open science [2], the list is being made publicly available.
 
