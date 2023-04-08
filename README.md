@@ -29,5 +29,5 @@ We would like to acknowledge the support of the Norte Portugal Regional Operatio
 ## References
 
 1. Direçao-Geral das Autarquias Locais, “Portal Autárquico - Lista de Municípios,” nov 2021. [Online]. Available: [http://www.portalautarquico.dgal.gov.pt](http://www.portalautarquico.dgal.gov.pt/pt-PT/subsetor-da-administracao-local/entidades-autarquicas/municipios/)
-2. Pending.
+2. Júnior, J., Carneiro, P., Paiva, S., & Pinto, P. (2023). An Analysis on the Implementation of Secure Web-Related Protocols in Portuguese City Councils. International Journal of Marketing, Communication and New Media. https://doi.org/10.54663/2182-9306.2023.sn12.59-76
 3. S. Bezjak, A. Clyburne-Sherin, P. Conzett, P. Fernandes, E. Görögh, K. Helbig, B. Kramer, I. Labastida, K. Niemeyer, F. Psomopoulos, T. Ross-Hellauer, R. Schneider, J. Tennant, E. Verbakel, H. Brinken, and L. Heller, Open Science Training Handbook. Zenodo, Apr. 2018. [Online]. Available: [https://doi.org/10.5281/zenodo.1212496](https://doi.org/10.5281/zenodo.1212496)
